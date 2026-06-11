@@ -1,0 +1,105 @@
+match_id,stage,group,team1,team2
+1,Group Stage,Group A,Mexico,South Africa
+2,Group Stage,Group A,Korea Republic,Czechia
+3,Group Stage,Group B,Canada,Bosnia and Herzegovina
+4,Group Stage,Group D,USA,Paraguay
+5,Group Stage,Group C,Haiti,Scotland
+6,Group Stage,Group D,Australia,Türkiye
+7,Group Stage,Group C,Brazil,Morocco
+8,Group Stage,Group B,Qatar,Switzerland
+9,Group Stage,Group E,Côte d'Ivoire,Ecuador
+10,Group Stage,Group E,Germany,Curaçao
+11,Group Stage,Group F,Netherlands,Japan
+12,Group Stage,Group F,Sweden,Tunisia
+13,Group Stage,Group H,Saudi Arabia,Uruguay
+14,Group Stage,Group H,Spain,Cabo Verde
+15,Group Stage,Group G,IR Iran,New Zealand
+16,Group Stage,Group G,Belgium,Egypt
+17,Group Stage,Group I,France,Senegal
+18,Group Stage,Group I,Iraq,Norway
+19,Group Stage,Group J,Argentina,Algeria
+20,Group Stage,Group J,Austria,Jordan
+21,Group Stage,Group L,Ghana,Panama
+22,Group Stage,Group L,England,Croatia
+23,Group Stage,Group K,Portugal,Congo DR
+24,Group Stage,Group K,Uzbekistan,Colombia
+25,Group Stage,Group A,Czechia,South Africa
+26,Group Stage,Group B,Switzerland,Bosnia and Herzegovina
+27,Group Stage,Group B,Canada,Qatar
+28,Group Stage,Group A,Mexico,Korea Republic
+29,Group Stage,Group C,Brazil,Haiti
+30,Group Stage,Group C,Scotland,Morocco
+31,Group Stage,Group D,Türkiye,Paraguay
+32,Group Stage,Group D,USA,Australia
+33,Group Stage,Group E,Germany,Côte d'Ivoire
+34,Group Stage,Group E,Ecuador,Curaçao
+35,Group Stage,Group F,Netherlands,Sweden
+36,Group Stage,Group F,Tunisia,Japan
+37,Group Stage,Group H,Uruguay,Cabo Verde
+38,Group Stage,Group H,Spain,Saudi Arabia
+39,Group Stage,Group G,Belgium,IR Iran
+40,Group Stage,Group G,New Zealand,Egypt
+41,Group Stage,Group I,Norway,Senegal
+42,Group Stage,Group I,France,Iraq
+43,Group Stage,Group J,Argentina,Austria
+44,Group Stage,Group J,Jordan,Algeria
+45,Group Stage,Group L,England,Ghana
+46,Group Stage,Group L,Panama,Croatia
+47,Group Stage,Group K,Portugal,Uzbekistan
+48,Group Stage,Group K,Colombia,Congo DR
+49,Group Stage,Group C,Scotland,Brazil
+50,Group Stage,Group C,Morocco,Haiti
+51,Group Stage,Group B,Switzerland,Canada
+52,Group Stage,Group B,Bosnia and Herzegovina,Qatar
+53,Group Stage,Group A,Czechia,Mexico
+54,Group Stage,Group A,South Africa,Korea Republic
+55,Group Stage,Group E,Curaçao,Côte d'Ivoire
+56,Group Stage,Group E,Ecuador,Germany
+57,Group Stage,Group F,Japan,Sweden
+58,Group Stage,Group F,Tunisia,Netherlands
+59,Group Stage,Group D,Türkiye,USA
+60,Group Stage,Group D,Paraguay,Australia
+61,Group Stage,Group I,Norway,France
+62,Group Stage,Group I,Senegal,Iraq
+63,Group Stage,Group G,Egypt,IR Iran
+64,Group Stage,Group G,New Zealand,Belgium
+65,Group Stage,Group H,Cabo Verde,Saudi Arabia
+66,Group Stage,Group H,Uruguay,Spain
+67,Group Stage,Group L,Panama,England
+68,Group Stage,Group L,Croatia,Ghana
+69,Group Stage,Group J,Algeria,Austria
+70,Group Stage,Group J,Jordan,Argentina
+71,Group Stage,Group K,Colombia,Portugal
+72,Group Stage,Group K,Congo DR,Uzbekistan
+73,Round of 32,Knockout,Group A runners-up,Group B runners-up
+74,Round of 32,Knockout,Group E winners,Group A/B/C/D/F third place
+75,Round of 32,Knockout,Group F winners,Group C runners-up
+76,Round of 32,Knockout,Group C winners,Group F runners-up
+77,Round of 32,Knockout,Group I winners,Group C/D/F/G/H third place
+78,Round of 32,Knockout,Group E runners up,Group I runners-up
+79,Round of 32,Knockout,Group A winners,Group C/E/F/H/I third place
+80,Round of 32,Knockout,Group L winners,Group E/H/I/J/K third place
+81,Round of 32,Knockout,Group D winners,Group B/E/F/I/J third place
+82,Round of 32,Knockout,Group G winners,Group A/E/H/I/J third place
+83,Round of 32,Knockout,Group K runners-up,Group L runners-up
+84,Round of 32,Knockout,Group H winners,Group J runners-up
+85,Round of 32,Knockout,Group B winners,Group E/F/G/I/J third place
+86,Round of 32,Knockout,Group J winners,Group H runners-up
+87,Round of 32,Knockout,Group K winners,Group D/E/I/J/L third place
+88,Round of 32,Knockout,Group D runners-up,Group G runners-up
+89,Round of 16,Knockout,Winner match 74,Winner match 77
+90,Round of 16,Knockout,Winner match 73,Winner match 75
+91,Round of 16,Knockout,Winner match 76,Winner match 78
+92,Round of 16,Knockout,Winner match 79,Winner match 80
+93,Round of 16,Knockout,Winner match 83,Winner match 84
+94,Round of 16,Knockout,Winner match 81,Winner match 82
+95,Round of 16,Knockout,Winner match 86,Winner match 88
+96,Round of 16,Knockout,Winner match 85,Winner match 87
+97,Quarter-finals,Knockout,Winner match 89,Winner match 90
+98,Quarter-finals,Knockout,Winner match 93,Winner match 94
+99,Quarter-finals,Knockout,Winner match 91,Winner match 92
+100,Quarter-finals,Knockout,Winner match 95,Winner match 96
+101,Semi-finals,Knockout,Winner match 97,Winner match 98
+102,Semi-finals,Knockout,Winner match 99,Winner match 100
+103,Third Place,Knockout,Runner-up match 101,Runner-up match 102
+104,Final,Knockout,Winner match 101,Winner match 102
