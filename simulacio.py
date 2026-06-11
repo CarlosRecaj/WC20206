@@ -215,7 +215,7 @@ def run_montecarlo(
     model,
     scaler,
     team_data: dict,
-    num_simulations: int = 10000,
+    num_simulations: int = 1000,
 ) -> Counter:
     """Executa num_simulations torneigs i retorna el comptador de victòries per equip.
 
